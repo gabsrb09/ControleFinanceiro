@@ -103,6 +103,6 @@ O resumo financeiro utiliza operações de agregação do MongoDB, como `$group`
 
 Gabriel Santos Ribeiro,
 Nicolas do Vale Oliveira Moreira,
-Ricardo Santos de Morais,
+Ricardo Santos de Morais
 
 **Projeto 05 — Controle Financeiro | 4º Bimestre**
