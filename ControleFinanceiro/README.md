@@ -101,8 +101,8 @@ O resumo financeiro utiliza operações de agregação do MongoDB, como `$group`
 
 ## Autores
 
-Gabriel Santos Ribeiro
-Nicolas do Vale Oliveira Moreira
-Ricardo Santos de Morais
+Gabriel Santos Ribeiro,
+Nicolas do Vale Oliveira Moreira,
+Ricardo Santos de Morais,
 
 **Projeto 05 — Controle Financeiro | 4º Bimestre**
